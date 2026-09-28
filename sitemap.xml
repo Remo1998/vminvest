@@ -1,8 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vminvest.nl/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://vminvest.nl/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/"/>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/contact.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/data-centers.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/data-centers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/data-centers.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/growth-capital.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/growth-capital.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/growth-capital.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/hotels-hospitality.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/hotels-hospitality.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/hotels-hospitality.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/international-network.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/international-network.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/international-network.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/logistics-industrial.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/logistics-industrial.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/logistics-industrial.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/off-market.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/off-market.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/off-market.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/our-approach.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/our-approach.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/our-approach.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/real-estate-investments.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/real-estate-investments.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/real-estate-investments.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/residential-senior-living.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/residential-senior-living.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/residential-senior-living.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/nl/sustainability-energy.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/sustainability-energy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/sustainability-energy.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/contact.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/data-centers.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/data-centers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/data-centers.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/growth-capital.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/growth-capital.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/growth-capital.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/hotels-hospitality.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/hotels-hospitality.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/hotels-hospitality.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/international-network.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/international-network.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/international-network.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/logistics-industrial.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/logistics-industrial.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/logistics-industrial.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/off-market.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/off-market.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/off-market.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/our-approach.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/our-approach.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/our-approach.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/real-estate-investments.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/real-estate-investments.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/real-estate-investments.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/residential-senior-living.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/residential-senior-living.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/residential-senior-living.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vminvest.nl/en/sustainability-energy.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vminvest.nl/nl/sustainability-energy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vminvest.nl/en/sustainability-energy.html"/>
+    <priority>0.8</priority>
   </url>
 </urlset>

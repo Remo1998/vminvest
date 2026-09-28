@@ -1,0 +1,107 @@
+/* Michroma (SIL OFL 1.1, see fonts/OFL-Michroma.txt), self-hosted instead of Google Fonts. */
+@font-face{font-family:'Michroma';font-style:normal;font-weight:400;font-display:swap;src:url('fonts/michroma-latin-400-normal.woff2') format('woff2')}
+:root{--navy:#081c2c;--surface:#0e2638;--ink:#f3f5f4;--muted:#adbcc5;--gold:#c6b38d;--line:#ffffff25}*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:110px}body{margin:0;background:var(--navy);color:var(--ink);font-family:"Century Gothic","CenturyGothic", "Apple Gothic", "Avant Garde", Arial,sans-serif;font-size:16px;line-height:1.8}a{color:inherit;text-decoration:none}button,summary{font:inherit;cursor:pointer}a,button,summary{-webkit-tap-highlight-color:transparent}a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:6px}.skip{position:absolute;left:20px;top:-100px;background:var(--navy);padding:12px;z-index:30}.skip:focus{top:10px}header{height:112px;display:flex;align-items:center;gap:40px;padding:0 5.5%;position:relative;z-index:20;border-bottom:1px solid var(--line);background:var(--navy)}.logo{display:flex;flex-direction:column;align-items:center;width:86px;flex-shrink:0;line-height:1}.monogram{font-size:44px;font-weight:500;letter-spacing:-7px;padding-right:7px}.invest{font-size:12px;letter-spacing:5px;margin-top:10px;padding-left:5px;color:var(--gold)}nav{display:flex;align-items:center;gap:36px;margin-left:auto;font-size:14px}nav>a,summary{padding:14px 0}.contact-nav{border-bottom:1px solid var(--gold)}.contact-nav span{margin-left:25px;color:var(--gold)}.language{font-size:13px;color:var(--muted);white-space:nowrap}.language b{color:var(--ink)}summary{list-style:none}summary::-webkit-details-marker{display:none}summary:after{content:'⌄';margin-left:12px}.dropdown{position:absolute;top:95px;right:5.5%;width:580px;background:#102c40;border:1px solid var(--line);padding:24px;display:grid;grid-template-columns:1fr 1fr;gap:8px 25px;box-shadow:0 25px 50px #0006}.dropdown a{padding:10px;border-bottom:1px solid var(--line)}.dropdown a:hover{color:var(--gold)}.menu-toggle{display:none;background:none;color:var(--ink);border:0;font-size:25px}.hero{min-height:720px;height:calc(100svh - 112px);max-height:1000px;position:relative;display:flex;align-items:center;overflow:hidden}.hero>img{position:absolute;width:100%;height:100%;object-fit:cover;object-position:center 48%;opacity:.57}.hero:after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#061928ed 0%,#081c2cb0 43%,#081c2c16 100%),linear-gradient(0deg,#081c2c 0%,transparent 40%)}.hero-content{position:relative;z-index:1;padding:80px 7%;width:100%}.eyebrow{display:block;color:var(--gold);text-transform:uppercase;font-size:12px;letter-spacing:2.5px;font-weight:600;margin-bottom:28px}.hero h1{font-size:clamp(40px,4.8vw,76px);font-weight:400;letter-spacing:-2.6px;line-height:1.14;max-width:1050px;margin:0 0 30px}.hero h1 em{font-style:normal;color:var(--gold)}.hero p{font-size:18px;max-width:550px;color:#d1dbe0;line-height:1.8;margin-bottom:38px}.button{display:inline-flex;align-items:center;justify-content:space-between;gap:50px;background:var(--gold);color:var(--navy);padding:16px 24px;font-size:14px;font-weight:600;transition:background .2s}.button:hover{background:#e0ceaa}.hero-bottom{position:absolute;z-index:2;bottom:24px;left:7%;right:7%;display:flex;justify-content:space-between;border-top:1px solid var(--line);padding-top:24px;font-size:11px;letter-spacing:2px;color:var(--muted)}h2{font-size:clamp(30px,3vw,46px);font-weight:400;letter-spacing:-1.3px;line-height:1.25;margin:0 0 32px}p{color:var(--muted);margin:0 0 24px}.intro{display:grid;grid-template-columns:1fr 2fr;gap:8%;padding:120px 9%}.intro>div{max-width:740px}.intro p{font-size:17px}.text-link{display:inline-block;border-bottom:1px solid var(--gold);padding-bottom:8px;font-size:14px;color:var(--gold);margin-top:15px}.expertise{padding:90px 7% 115px;background:var(--surface)}.section-heading{display:flex;align-items:baseline;gap:8%;margin-bottom:40px}.section-heading .eyebrow{min-width:150px}.section-heading h2{margin:0}.sectors{display:grid;grid-template-columns:repeat(2,1fr);border-top:1px solid var(--line)}.sector{position:relative;display:block;padding:35px 75px 40px 38px;border-bottom:1px solid var(--line);transition:background .2s}.sector:nth-child(odd){border-right:1px solid var(--line)}.sector:hover{background:#19364a}.number{color:var(--gold);font-size:12px;letter-spacing:1px}h3{font-size:25px;font-weight:400;line-height:1.4;margin:18px 0 15px;letter-spacing:-.6px}.sector p{font-size:15px;line-height:1.8;margin:0;max-width:440px}.sector-arrow{position:absolute;right:30px;top:45px;font-size:25px;color:var(--gold)}.network-band{padding:100px 9%;background:linear-gradient(90deg,#081c2cf5,#081c2cba),url(architecture.jpg) center/cover}.network-band p{max-width:600px;font-size:18px}.cta{padding:100px 9%;border-top:1px solid var(--line);position:relative}.cta .button{position:absolute;right:9%;top:47%}.cta h2{margin-bottom:0}footer{padding:60px 7% 25px;background:#051521}.footer-top{display:flex;justify-content:space-between;align-items:center;padding-bottom:50px}.footer-top p{font-size:20px;line-height:1.5;margin:0;color:var(--ink)}.footer-top>div a{display:block;font-size:15px;color:var(--muted);margin:5px 0}.footer-bottom{display:flex;justify-content:space-between;gap:20px;border-top:1px solid var(--line);padding-top:22px;font-size:12px;color:var(--muted)}.page-hero{padding:40px 9% 70px;background:linear-gradient(105deg,#102f46,#081c2c);border-bottom:1px solid var(--line)}.breadcrumb{font-size:13px;color:var(--muted);display:inline-block;margin-bottom:45px}.page-hero h1{font-size:clamp(36px,5vw,68px);font-weight:400;letter-spacing:-2px;line-height:1.15;max-width:1000px;margin:0 0 28px}.page-hero p{font-size:20px;max-width:800px;margin:0}.article-layout{display:grid;grid-template-columns:260px 1fr;gap:9%;padding:80px 9% 100px}.article-layout aside a{display:block;font-size:14px;padding:12px 0;border-bottom:1px solid var(--line);line-height:1.5;color:var(--muted)}.article-layout aside a[aria-current]{color:var(--gold)}article{max-width:780px}article p{font-size:17px;line-height:1.9}article p:first-child{color:var(--ink);font-size:20px}.focus-list{list-style:none;margin:30px 0 40px;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 25px}.focus-list li{padding:14px 0 14px 20px;border-bottom:1px solid var(--line);position:relative;color:#d2dce2;font-size:15px}.focus-list li:before{content:'';position:absolute;left:0;top:25px;width:4px;height:4px;background:var(--gold)}.contact-section{display:grid;grid-template-columns:1fr 1fr;gap:10%;padding:90px 9% 110px}.contact-links{align-self:center}.contact-links>span{display:block;font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--gold)}.contact-links>a{display:block;font-size:clamp(17px,2vw,27px);border-bottom:1px solid var(--line);padding:12px 0 22px;margin-bottom:25px;overflow-wrap:anywhere}.contact-links p{font-size:14px}
+@media(min-width:1700px){main,header,footer{max-width:2000px;margin:auto}}@media(max-width:900px){header{gap:25px}nav{gap:22px}.hero{min-height:660px}.hero h1{font-size:54px}.intro{grid-template-columns:1fr;padding:80px 7%;gap:10px}.article-layout{grid-template-columns:1fr;padding:60px 7%}.article-layout aside{display:none}.section-heading{display:block}.section-heading .eyebrow{margin-bottom:18px}.cta .button{position:static;margin-top:30px}.footer-top{gap:35px;flex-wrap:wrap}.contact-section{grid-template-columns:1fr;gap:30px}}@media(max-width:640px){header{height:90px;padding:0 6%;gap:20px}.logo{width:65px}.monogram{font-size:36px}.invest{font-size:10px;letter-spacing:4px}.language{margin-left:auto}.menu-toggle{display:block}nav{display:none;position:absolute;top:90px;left:0;right:0;background:var(--navy);padding:20px 6%;flex-direction:column;align-items:stretch;max-height:calc(100svh - 90px);overflow-y:auto}.menu-open nav{display:flex;gap:5px}.dropdown{position:static;width:auto;grid-template-columns:1fr;padding:5px 15px;box-shadow:none}.hero{height:auto;min-height:690px;align-items:flex-start}.hero-content{padding:90px 6% 140px}.hero h1{font-size:42px;letter-spacing:-1.7px}.hero p{font-size:16px}.eyebrow{font-size:11px;letter-spacing:1.7px}.hero-bottom{left:6%;right:6%;font-size:9px;gap:20px}.hero-bottom span:last-child{display:none}.sectors{grid-template-columns:1fr}.sector{padding:28px 48px 30px 0}.sector:nth-child(odd){border-right:0}.sector-arrow{right:4px;top:35px}.expertise,.network-band,.cta{padding:65px 6%}.intro{padding:65px 6%}h2{font-size:34px}.footer-top{align-items:flex-start;flex-direction:column}.footer-bottom{flex-direction:column;font-size:11px}.page-hero{padding:25px 6% 50px}.page-hero h1{font-size:41px;letter-spacing:-1.5px;overflow-wrap:break-word}.page-hero p{font-size:18px}.focus-list{grid-template-columns:1fr}.contact-section{padding:60px 6%}.hero>img{object-position:65% center}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+
+/* Revised VMI brand and geometric typography */
+.logo{width:132px}.brand-image{display:block;width:100%;height:auto}.hero h1,.page-hero h1{letter-spacing:-.035em}h2,h3{letter-spacing:-.025em}.footer-top .logo{width:150px}@media(max-width:640px){.logo{width:105px}.hero h1,.page-hero h1{letter-spacing:-.025em}}
+
+/* Sharper display typography, stronger reading text and contextual photography. */
+body{font-weight:500;color:#f3f5f4}
+h1,h2,h3{font-family:"Michroma","Century Gothic",Arial,sans-serif;font-weight:600!important;letter-spacing:.005em!important;line-height:1.45}
+.hero h1{font-size:clamp(32px,3.6vw,57px);line-height:1.45;max-width:1150px}
+.page-hero h1{font-size:clamp(30px,3.4vw,54px);line-height:1.45;max-width:1100px}
+h2{font-size:clamp(25px,2.5vw,37px);line-height:1.5}h3{font-size:21px;line-height:1.6}
+p,article p,.intro p,.focus-list li{font-weight:500;color:#cbd6dd}
+nav,.button,.text-link,.article-layout aside a{font-weight:700}
+.eyebrow{font-weight:700;letter-spacing:2.7px}
+.theme-city{--topic-image:url('background-city.jpg')}.theme-data{--topic-image:url('background-data.jpg')}.theme-logistics{--topic-image:url('background-logistics.jpg')}
+.page-hero{position:relative;isolation:isolate;overflow:hidden;min-height:440px;padding-top:35px;padding-bottom:75px;background:#081c2c}
+.page-hero:before{content:'';position:absolute;inset:0;z-index:-2;background-image:var(--topic-image);background-size:cover;background-position:center 48%}
+.page-hero:after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(5,20,33,.96) 0%,rgba(5,20,33,.83) 52%,rgba(5,20,33,.36) 100%),linear-gradient(0deg,#081c2c 0%,transparent 45%)}
+.page-hero p{color:#e0e6eb;font-weight:500;max-width:820px;line-height:1.9}
+.article-layout{background-image:linear-gradient(#081c2cf5,#081c2cfb),var(--topic-image);background-position:center top;background-size:cover}
+article p{font-size:18px;line-height:1.95}article p:first-child{font-weight:700;color:#edf2f5}
+.section-heading{align-items:flex-start}.sector{min-height:265px}.footer-top p{font-weight:600}
+@media(max-width:900px){.hero h1{font-size:40px}.page-hero h1{font-size:38px}.section-heading{display:block}}
+@media(max-width:640px){.hero h1{font-size:30px;line-height:1.55}.page-hero h1{font-size:27px;line-height:1.55;overflow-wrap:anywhere}.page-hero{min-height:420px;padding-bottom:55px}.page-hero:after{background:linear-gradient(90deg,#051421ed,#051421bd),linear-gradient(0deg,#081c2c,transparent)}h2{font-size:25px}h3{font-size:19px}.page-hero p,article p{font-size:17px}.hero-content{padding-top:65px}.sector{min-height:0}.focus-list li{font-size:16px}}
+body,p,article p,.intro p,.focus-list li,.page-hero p{font-weight:600}
+
+/* User-requested full-text futuristic typography preview. */
+body,button,summary,input,textarea,select{font-family:"Michroma","Century Gothic",Arial,sans-serif;font-weight:400}
+p,article p,.intro p,.focus-list li,.page-hero p{font-family:inherit;font-weight:400;letter-spacing:.015em;line-height:2.05}
+article p,.intro p{font-size:16px}article p:first-child{font-size:18px;font-weight:400}
+.page-hero p,.hero p{font-size:17px;line-height:1.95}
+nav,.button,.text-link,.article-layout aside a{font-weight:400;font-size:13px;letter-spacing:.025em}
+nav{gap:24px}.dropdown{width:min(720px,90vw)}.dropdown a{line-height:1.9}
+.focus-list{grid-template-columns:1fr}.focus-list li{font-size:15px;line-height:1.9}
+.sector p{font-size:14px;line-height:2}.sector{padding-right:60px}
+.eyebrow{font-size:11px;line-height:1.9;letter-spacing:1.5px;font-weight:400}
+.footer-top>div a{font-size:13px}.footer-top p{font-size:17px}.footer-bottom{font-size:10px}
+.article-layout{grid-template-columns:260px minmax(0,1fr);gap:6%}.article-layout aside a{font-size:12px;line-height:1.95}
+.contact-links>a{font-size:clamp(14px,1.6vw,23px)}
+@media(max-width:1000px){header{gap:20px}nav{gap:16px;font-size:12px}.article-layout{grid-template-columns:1fr}}
+@media(max-width:640px){p,article p,.intro p,.page-hero p,.hero p{font-size:15px;line-height:2}.hero h1{font-size:28px}.page-hero h1{font-size:25px}.sector p{font-size:14px}.focus-list li{font-size:14px}.footer-top p{font-size:15px}.dropdown{width:auto}.contact-links>a{font-size:14px}}
+
+/* Horizontal VM + full-height I + smaller NVEST, using site typography. */
+.logo,.footer-top .logo{width:auto;display:inline-flex;align-items:flex-start;flex-shrink:0}
+.wordmark{display:inline-flex;align-items:baseline;white-space:nowrap;font-family:"Michroma","Century Gothic",Arial,sans-serif;line-height:1.2;color:#f3f5f4}
+.wordmark-vm{font-size:36px;font-weight:700;letter-spacing:-.19em;padding-right:.2em;-webkit-text-stroke:.5px currentColor}
+.wordmark-i{font-size:36px;font-weight:400;letter-spacing:0;margin-left:4px}
+.wordmark-nvest{font-size:17px;font-weight:400;letter-spacing:.025em;margin-left:3px}
+@media(max-width:1100px){header{gap:22px}nav{gap:18px}.wordmark-vm,.wordmark-i{font-size:30px}.wordmark-nvest{font-size:14px}}
+@media(max-width:760px){header{gap:12px}.wordmark-vm,.wordmark-i{font-size:26px}.wordmark-nvest{font-size:12px}nav{gap:10px}}
+@media(max-width:640px){.logo{width:auto}.wordmark-vm,.wordmark-i{font-size:28px}.wordmark-nvest{font-size:13px}.language{font-size:11px}}
+
+/* Classical high-contrast serif logo, distinct from the site typography. */
+.wordmark{font-family:"Bodoni MT",Didot,"Times New Roman",serif;align-items:baseline;line-height:1;letter-spacing:0}
+.wordmark-vm{font-family:inherit;font-size:58px;font-weight:700;letter-spacing:-.16em;padding-right:.16em;-webkit-text-stroke:0}
+.wordmark-i{font-family:inherit;font-size:58px;font-weight:400;display:inline-block;transform:scaleX(.58);transform-origin:center bottom;letter-spacing:0;margin-left:2px;margin-right:-4px}
+.wordmark-nvest{font-family:inherit;font-size:30px;font-weight:400;letter-spacing:.005em;margin-left:0}
+@media(max-width:1100px){.wordmark-vm,.wordmark-i{font-size:50px}.wordmark-nvest{font-size:26px}}
+@media(max-width:760px){.wordmark-vm,.wordmark-i{font-size:44px}.wordmark-nvest{font-size:23px}}
+@media(max-width:640px){.wordmark-vm,.wordmark-i{font-size:46px}.wordmark-nvest{font-size:24px}}
+
+/* Exact supplied reference, including its existing watermark. */
+.reference-logo{display:block;width:145px;height:84px;overflow:hidden;background:white;position:relative}.reference-logo img{display:block;position:absolute;width:320px;height:320px;max-width:none;left:-87px;top:-118px}@media(max-width:640px){.reference-logo{width:120px;height:70px}.reference-logo img{width:264px;height:264px;left:-72px;top:-97px}}
+
+/* White reference monogram blended into the surrounding navy. */
+.reference-logo{background:transparent;isolation:isolate}.reference-logo img{filter:invert(1);mix-blend-mode:screen}
+.reference-logo{isolation:auto}
+
+/* Solid white monogram and light geometric invest suffix. */
+.logo,.footer-top .logo{flex-direction:row;align-items:center;gap:9px}
+.reference-logo img{filter:contrast(20) invert(1);mix-blend-mode:screen}
+.reference-invest{font-family:"Michroma","Century Gothic",Arial,sans-serif;font-size:19px;font-weight:400;letter-spacing:.015em;line-height:1;color:#fff;align-self:center;margin-top:24px;-webkit-text-stroke:0}
+@media(max-width:1100px){header{gap:18px}nav{gap:14px}.reference-invest{font-size:16px}}
+@media(max-width:640px){.logo,.footer-top .logo{gap:6px}.reference-invest{font-size:14px;margin-top:20px}}
+
+/* Larger Invest and clean white, subtly strengthened hairlines. */
+.reference-logo img{filter:url(#logo-hairline);mix-blend-mode:normal}
+.reference-invest{font-size:24px;font-weight:400;margin-top:20px}
+@media(max-width:1100px){.reference-invest{font-size:21px}}
+@media(max-width:640px){.reference-invest{font-size:18px;margin-top:16px}}
+/* Larger Invest with a refined underline. */
+.reference-invest{font-size:30px;display:inline-block;border-bottom:1px solid #fff;padding-bottom:7px;margin-top:18px;line-height:1.15}
+@media(max-width:1100px){.reference-invest{font-size:26px}}
+@media(max-width:640px){.reference-invest{font-size:22px;padding-bottom:5px;margin-top:14px}}
+/* Small envelope beside footer email links. */
+.footer-top a[href^="mailto:"]::before{content:"";display:inline-block;width:16px;height:12px;margin-right:10px;vertical-align:-1px;background:currentColor;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 18'%3E%3Crect x='1' y='1' width='22' height='16' rx='2' fill='none' stroke='black' stroke-width='1.5'/%3E%3Cpath d='m2 3 10 7L22 3' fill='none' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E") center/contain no-repeat}
+.footer-top a[href^="mailto:"]::before{content:none}
+
+/* VM monogram: VMInvest's own vector logo (assets/vm-monogram-white.svg) replaces the
+   watermarked stock reference (vm-reference.png) and its crop/#logo-hairline filter. */
+.reference-logo{width:auto;height:auto;overflow:visible;background:none;isolation:auto;display:flex;align-items:center}
+.reference-logo img{position:static;left:auto;top:auto;width:150px;height:auto;max-width:none;filter:none;mix-blend-mode:normal}
+.footer-top .reference-logo img{width:150px}
+@media(max-width:1100px){.reference-logo img{width:128px}}
+@media(max-width:640px){.reference-logo img,.footer-top .reference-logo img{width:104px}}
+
+/* Portrait tablets (641-900px): the full desktop menu does not fit there (horizontal scroll up to
+   ~110px, and "Contact" wrapping), so use the existing phone menu, below the 112px header. */
+@media(min-width:641px) and (max-width:900px){.language{margin-left:auto}.menu-toggle{display:block}nav{display:none;position:absolute;top:112px;left:0;right:0;background:var(--navy);padding:20px 6%;flex-direction:column;align-items:stretch;max-height:calc(100svh - 112px);overflow-y:auto;border-bottom:1px solid var(--line)}.menu-open nav{display:flex;gap:5px}.dropdown{position:static;width:auto;grid-template-columns:1fr;padding:5px 15px;box-shadow:none}}
+/* 641-760px: two sector columns are too narrow for the long headings (e.g. "Infrastructure"). */
+@media(min-width:641px) and (max-width:760px){.sectors{grid-template-columns:1fr}.sector:nth-child(odd){border-right:0}}
+/* Very narrow phones (<=380px): keep the menu button on screen, and let long Dutch compounds
+   such as "investeringsmogelijkheden" break instead of widening the page. */
+@media(max-width:380px){header{gap:12px;padding:0 5%}.logo,.footer-top .logo{gap:5px}.reference-logo img,.footer-top .reference-logo img{width:88px}.reference-invest{font-size:18px}main p,main li{overflow-wrap:anywhere;hyphens:auto}.article-layout>*{min-width:0}}
